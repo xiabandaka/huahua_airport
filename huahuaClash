@@ -8,7 +8,6 @@ proxies:
   - {name: 'Flower花花_18', server: 185.76.9.56, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_5', server: 185.76.9.56, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_39', server: 185.76.9.56, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-  - {name: 'Flower花花_15', server: 156.146.33.74, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_19', server: 185.76.9.56, port: 44102, type: ss, cipher: aes-256-gcm, password: zHKYS9DeAjvv43EwgDfyEg4d}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_52', server: 185.76.9.56, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_11', server: 185.76.9.56, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
@@ -19,25 +18,15 @@ proxies:
   - {name: 'Flower花花_🇸🇪_SE_瑞典_8', server: 185.76.9.56, port: 50232, type: ss, cipher: aes-256-gcm, password: CjchzpwdSjRtDjezYMwx9BKM}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_55', server: 185.76.9.56, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
   - {name: 'Flower花花_🇺🇸_US_美国_32', server: 138.199.42.134, port: 31757, type: ss, cipher: aes-256-gcm, password: wj7nDCuNARchSeKNCN8VFK62}
-  - {name: 'Flower花花_25', server: 185.108.106.172, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_23', server: 185.76.9.56, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
-  - {name: 'Flower花花9673_17', server: 66.115.182.101, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_18', server: 185.76.9.56, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
   - {name: 'Flower花花_🇫🇷_FR_法国_1', server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 'Flower花花_🇺🇸_US_美国_35', server: 138.199.42.170, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 'Flower花花_2', server: 156.146.33.66, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 'Flower花花10555_22', server: 66.115.182.101, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 'Flower花花10645_23', server: 66.115.182.101, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
   - {name: 'Flower花花_挪威_+5_164', server: 46.29.218.6, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 'Flower花花_🇺🇸_US_美国_21', server: 138.199.42.170, port: 40711, type: ss, cipher: aes-256-gcm, password: rnngxSTJrXWKXHkvrF3npp9B}
   - {name: 'Flower花花_8', server: 156.146.62.45, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
   - {name: 'Flower花花_挪威_+6_165', server: 46.29.218.6, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-  - {name: 'Flower花花12861_28', server: 212.102.44.91, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 'Flower花花11142_29', server: 192.154.248.181, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 'Flower花花14052_30', server: 212.102.44.91, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
   - {name: 'Flower花花_6', server: 118.107.244.112, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_54', server: 185.76.9.56, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 'Flower花花_11', server: 156.146.33.66, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
   - {name: 'Flower花花_🇸🇪_SE_瑞典_74', server: 185.76.9.56, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
   - {name: 'Flower花花_🇳🇴_NO_挪威_1', server: 46.29.218.6, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
   - {name: 'Flower花花_53', server: 185.76.9.56, port: 32843, type: ss, cipher: aes-256-gcm, password: G35YSR2LFNEM9bq2dkjmKQRr}
@@ -45,95 +34,95 @@ proxies:
   - {name: 'Flower花花_🇸🇪_SE_瑞典_4', server: 185.76.9.56, port: 45291, type: ss, cipher: aes-256-gcm, password: ecfJrNtBZwT748hxJ3ZyzZj2}
   - {name: 'Flower花花_62', server: 156.146.62.45, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
   - {name: 'Flower花花_44', server: 185.76.9.56, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_1', server: 82.102.16.102, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_1', server: 194.110.115.84, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_1', server: 185.76.8.218, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_2', server: 185.76.8.218, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_2', server: 82.102.16.102, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_3', server: 185.76.8.218, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_4', server: 185.76.8.218, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_5', server: 185.76.8.218, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_3', server: 82.102.16.102, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_6', server: 185.76.8.218, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_2', server: 194.110.115.84, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_7', server: 185.76.8.218, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_8', server: 185.76.8.218, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_9', server: 185.76.8.218, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_10', server: 185.76.8.218, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_4', server: 82.102.16.102, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_11', server: 185.76.8.218, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_12', server: 185.76.8.218, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_5', server: 82.102.16.102, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_6', server: 82.102.16.102, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
   - {name: 'Flower_花花_🇸🇪_SE_瑞典_1', server: 185.76.9.56, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_13', server: 185.76.8.218, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_14', server: 185.76.8.218, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_15', server: 185.76.8.218, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_16', server: 185.76.8.218, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_17', server: 185.76.8.218, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_7', server: 82.102.16.102, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_8', server: 82.102.16.102, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_18', server: 185.76.8.218, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_19', server: 185.76.8.218, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_9', server: 82.102.16.102, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_10', server: 82.102.16.102, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 'Flower_花花_🇸🇪_SE_瑞典_2', server: 185.76.9.56, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_20', server: 185.76.8.218, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_11', server: 82.102.16.102, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_3', server: 194.110.115.84, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_4', server: 194.110.115.84, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_12', server: 82.102.16.102, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_13', server: 82.102.16.102, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
   - {name: 'Flower_花花_🇸🇪_SE_瑞典_3', server: 185.76.9.56, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_14', server: 82.102.16.102, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_15', server: 82.102.16.102, port: 47861, type: ss, cipher: aes-256-gcm, password: LJcChRsGQRhywrtXUU55TLTu}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_16', server: 82.102.16.102, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
   - {name: 'Flower_花花_🇪🇸_ES_西班牙_1', server: 89.37.95.16, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_17', server: 82.102.16.102, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_18', server: 82.102.16.102, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_19', server: 82.102.16.102, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_20', server: 82.102.16.102, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
   - {name: 'Flower_花花_🇪🇸_ES_西班牙_2', server: 89.37.95.16, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_21', server: 82.102.16.102, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_21', server: 185.76.8.218, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_7', server: 194.110.115.84, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_22', server: 82.102.16.102, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 'Flower_花花_🇫🇷_FR_法国_1', server: 185.108.106.172, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_8', server: 194.110.115.84, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_9', server: 194.110.115.84, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_10', server: 194.110.115.84, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 'Flower_花花_🇪🇸_ES_西班牙_3', server: 89.37.95.16, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_23', server: 82.102.16.102, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_1', server: 91.219.215.53, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_11', server: 194.110.115.84, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_2', server: 91.219.215.53, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_3', server: 91.219.215.53, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
   - {name: 'Flower_花花_🇧🇪_BE_比利时_12', server: 194.110.115.86, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
-  - {name: 'Flower_花花_🇩🇪_DE_德国_24', server: 82.102.16.102, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
   - {name: 'Flower_花花_🇸🇪_SE_瑞典_4', server: 185.76.9.56, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_4', server: 91.219.215.53, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_5', server: 91.219.215.53, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 'Flower_花花_🇹🇷_TR_土耳其_1', server: 107.150.94.14, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_6', server: 91.219.215.53, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
   - {name: 'Flower_花花_🇸🇪_SE_瑞典_5', server: 185.76.9.56, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_7', server: 91.219.215.53, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_13', server: 194.110.115.84, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_22', server: 185.76.8.218, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_8', server: 91.219.215.53, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_14', server: 194.110.115.84, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
   - {name: 'Flower_花花_🇪🇸_ES_西班牙_4', server: 89.37.95.16, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_9', server: 91.219.215.53, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_10', server: 91.219.215.53, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_12', server: 91.219.215.53, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_15', server: 194.110.115.84, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
   - {name: 'Flower_花花_🇪🇸_ES_西班牙_5', server: 89.37.95.16, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_13', server: 91.219.215.53, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 'Flower_花花_🇧🇪_BE_比利时_16', server: 194.110.115.84, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
   - {name: 'Flower_花花_🇸🇰_SK_斯洛伐克_23', server: 185.76.8.218, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_14', server: 91.219.215.53, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_15', server: 91.219.215.53, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_16', server: 91.219.215.53, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 'Flower_花花_🇳🇴_NO_挪威_17', server: 91.219.215.53, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 'Flower_花花_1', server: 156.146.62.45, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
+  - {name: 'Flower_花花_1_3', server: 156.146.62.45, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
+  - {name: 'Flower_花花_1_4', server: 89.37.95.16, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 'Flower_花花_10', server: 185.76.8.218, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: 'Flower_花花_11', server: 185.76.8.218, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 'Flower_花花_12', server: 185.76.8.218, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 'Flower_花花_13', server: 185.76.8.218, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 'Flower_花花_14', server: 138.199.42.170, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 'Flower_花花_15', server: 198.147.22.87, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 'Flower_花花_16', server: 156.146.62.45, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 'Flower_花花_17', server: 185.76.8.218, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
+  - {name: 'Flower_花花_2', server: 156.146.62.45, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 'Flower_花花_21', server: 156.146.62.45, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: 'Flower_花花_21_15', server: 185.76.8.218, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 'Flower_花花_22', server: 185.76.8.218, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
+  - {name: 'Flower_花花_23', server: 185.76.8.218, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 'Flower_花花_25', server: 185.76.8.218, port: 47553, type: ss, cipher: aes-256-gcm, password: t2JnnFqjDMmzWurseJPgBsYY}
+  - {name: 'Flower_花花_25_19', server: 198.147.22.87, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 'Flower_花花_26', server: 185.76.8.218, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 'Flower_花花_27', server: 185.76.8.218, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 'Flower_花花_29', server: 185.76.8.218, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 'Flower_花花_3', server: 156.146.62.45, port: 49202, type: ss, cipher: aes-256-gcm, password: btzEYXKZxnR7g6H2vFTQK5TD}
+  - {name: 'Flower_花花_3_24', server: 185.76.8.218, port: 49396, type: ss, cipher: aes-256-gcm, password: BdRWC38L5JUDMTYNNxJGcUwB}
+  - {name: 'Flower_花花_3_25', server: 156.146.62.45, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
+  - {name: 'Flower_花花_3_26', server: 107.150.94.12, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 'Flower_花花_30', server: 185.76.8.218, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 'Flower_花花_48', server: 185.76.8.218, port: 44236, type: ss, cipher: aes-256-gcm, password: FWrXcxPZjJxAN89xLgqY3Acp}
+  - {name: 'Flower_花花_5', server: 156.146.62.45, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 'Flower_花花_5_30', server: 156.146.62.45, port: 44628, type: ss, cipher: aes-256-gcm, password: VASQbVcukHfdBGmeS9L7Z8TT}
+  - {name: 'Flower_花花_5_31', server: 89.37.95.16, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: 'Flower_花花_6', server: 156.146.62.45, port: 31216, type: ss, cipher: aes-256-gcm, password: wJwXatAGZ8xX5K8C7mruf84x}
+  - {name: 'Flower_花花_6_33', server: 156.146.62.45, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: 'Flower_花花_7', server: 156.146.62.45, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 'Flower_花花_8', server: 156.146.62.45, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
+  - {name: 'Flower_花花_8_36', server: us1nhg-node.aiqiche123.com, port: 13723, type: vmess, uuid: a90597c1-bab3-4217-ad6f-0838675c8634, alterId: 10, cipher: auto, tls: true, network: ws, ws-path: ray}
+  - {name: 'Flower_花花_9', server: 156.146.62.45, port: 32843, type: ss, cipher: aes-256-gcm, password: G35YSR2LFNEM9bq2dkjmKQRr}
+  - {name: 'Flower_花花_9_38', server: 198.57.27.218, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: '🇪🇸+Flower_花花_西班牙_38', server: 89.37.95.16, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: '🇪🇸+Flower_花花_西班牙_39', server: 89.37.95.16, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: '🇪🇸+Flower_花花_西班牙+2_40', server: 89.37.95.16, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: '🇪🇸+Flower_花花_西班牙+2_41', server: 89.37.95.16, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: '🇮🇹+Flower_花花_意大利_42', server: 84.17.58.162, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
+  - {name: '🇹🇷+Flower_花花_土耳其_43', server: 107.150.94.12, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
+  - {name: '🇹🇷+Flower_花花_土耳其+2_44', server: 107.150.94.12, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: '🇹🇷+Flower_花花_土耳其+3_45', server: 107.150.94.12, port: 49339, type: ss, cipher: aes-256-gcm, password: suucSeVLmt6PQKAP77NtGw9x}
+  - {name: '🇺🇸+Flower_花花_美国+10_46', server: 156.146.62.45, port: 41306, type: ss, cipher: aes-256-gcm, password: pzB5Y2twNtqFzWhEbBsPJMjj}
+  - {name: '🇺🇸+Flower_花花_美国+11_47', server: 156.146.62.45, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: '🇺🇸+Flower_花花_美国+4_48', server: 156.146.62.45, port: 31944, type: ss, cipher: aes-256-gcm, password: aYNeKDMzYQYw4KbUbJA8Wszq}
+  - {name: '🇺🇸+Flower_花花_美国+6_49', server: 156.146.62.45, port: 44945, type: ss, cipher: aes-256-gcm, password: F5bKkb9ggkLx4JbQrbLn7LjZ}
+  - {name: '🇺🇸+Flower_花花_美国+8_50', server: 156.146.62.45, port: 32971, type: ss, cipher: aes-256-gcm, password: vwS65ZXyZg85ApwZ2bBh6zFZ}
+  - {name: '🇺🇸+Flower_花花_美国+9_51', server: 156.146.62.45, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 'Flower_花花_SK_7723', server: 185.76.8.218, port: 49514, type: ss, cipher: aes-256-gcm, password: dpGjA4GkzV28QPDYzEp94cTe}
+  - {name: 'Flower_花花_US_10983', server: 156.146.62.45, port: 38033, type: ss, cipher: aes-256-gcm, password: xpQwyV4W5FdA6NMANJJx73US}
+  - {name: '美国_Flower_花花__54', server: 156.146.62.45, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
+  - {name: '美国_Flower_花花__55', server: 156.146.62.45, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: '美国_Flower_花花__56', server: 198.147.22.87, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: '欧洲_Flower_花花__57', server: 198.57.27.218, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
@@ -143,7 +132,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -154,25 +142,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -180,95 +158,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -277,7 +255,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -288,25 +265,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -314,95 +281,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -412,7 +379,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -423,25 +389,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -449,95 +405,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -546,7 +502,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -557,25 +512,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -583,95 +528,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -680,7 +625,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -691,25 +635,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -717,95 +651,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: 📲 电报信息
     type: select
     proxies:
@@ -814,7 +748,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -825,25 +758,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -851,95 +774,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -949,7 +872,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -960,25 +882,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -986,95 +898,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1093,7 +1005,6 @@ proxy-groups:
       - Flower花花_18
       - Flower花花_🇸🇪_SE_瑞典_5
       - Flower花花_🇸🇪_SE_瑞典_39
-      - Flower花花_15
       - Flower花花_🇸🇪_SE_瑞典_19
       - Flower花花_🇸🇪_SE_瑞典_52
       - Flower花花_🇸🇪_SE_瑞典_11
@@ -1104,25 +1015,15 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_8
       - Flower花花_🇸🇪_SE_瑞典_55
       - Flower花花_🇺🇸_US_美国_32
-      - Flower花花_25
       - Flower花花_🇸🇪_SE_瑞典_23
-      - Flower花花9673_17
       - Flower花花_🇸🇪_SE_瑞典_18
       - Flower花花_🇫🇷_FR_法国_1
       - Flower花花_🇺🇸_US_美国_35
-      - Flower花花_2
-      - Flower花花10555_22
-      - Flower花花10645_23
       - Flower花花_挪威_+5_164
-      - Flower花花_🇺🇸_US_美国_21
       - Flower花花_8
       - Flower花花_挪威_+6_165
-      - Flower花花12861_28
-      - Flower花花11142_29
-      - Flower花花14052_30
       - Flower花花_6
       - Flower花花_🇸🇪_SE_瑞典_54
-      - Flower花花_11
       - Flower花花_🇸🇪_SE_瑞典_74
       - Flower花花_🇳🇴_NO_挪威_1
       - Flower花花_53
@@ -1130,95 +1031,95 @@ proxy-groups:
       - Flower花花_🇸🇪_SE_瑞典_4
       - Flower花花_62
       - Flower花花_44
-      - Flower_花花_🇩🇪_DE_德国_1
-      - Flower_花花_🇧🇪_BE_比利时_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_2
-      - Flower_花花_🇩🇪_DE_德国_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_5
-      - Flower_花花_🇩🇪_DE_德国_3
       - Flower_花花_🇸🇰_SK_斯洛伐克_6
-      - Flower_花花_🇧🇪_BE_比利时_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_7
       - Flower_花花_🇸🇰_SK_斯洛伐克_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_9
       - Flower_花花_🇸🇰_SK_斯洛伐克_10
-      - Flower_花花_🇩🇪_DE_德国_4
       - Flower_花花_🇸🇰_SK_斯洛伐克_11
       - Flower_花花_🇸🇰_SK_斯洛伐克_12
-      - Flower_花花_🇩🇪_DE_德国_5
-      - Flower_花花_🇩🇪_DE_德国_6
       - Flower_花花_🇸🇪_SE_瑞典_1
       - Flower_花花_🇸🇰_SK_斯洛伐克_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_14
       - Flower_花花_🇸🇰_SK_斯洛伐克_15
       - Flower_花花_🇸🇰_SK_斯洛伐克_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_17
-      - Flower_花花_🇩🇪_DE_德国_7
-      - Flower_花花_🇩🇪_DE_德国_8
       - Flower_花花_🇸🇰_SK_斯洛伐克_18
       - Flower_花花_🇸🇰_SK_斯洛伐克_19
-      - Flower_花花_🇩🇪_DE_德国_9
-      - Flower_花花_🇩🇪_DE_德国_10
-      - Flower_花花_🇸🇪_SE_瑞典_2
       - Flower_花花_🇸🇰_SK_斯洛伐克_20
-      - Flower_花花_🇩🇪_DE_德国_11
-      - Flower_花花_🇧🇪_BE_比利时_3
-      - Flower_花花_🇧🇪_BE_比利时_4
-      - Flower_花花_🇩🇪_DE_德国_12
-      - Flower_花花_🇩🇪_DE_德国_13
       - Flower_花花_🇸🇪_SE_瑞典_3
-      - Flower_花花_🇩🇪_DE_德国_14
-      - Flower_花花_🇩🇪_DE_德国_15
-      - Flower_花花_🇩🇪_DE_德国_16
       - Flower_花花_🇪🇸_ES_西班牙_1
-      - Flower_花花_🇩🇪_DE_德国_17
-      - Flower_花花_🇩🇪_DE_德国_18
-      - Flower_花花_🇩🇪_DE_德国_19
-      - Flower_花花_🇩🇪_DE_德国_20
       - Flower_花花_🇪🇸_ES_西班牙_2
-      - Flower_花花_🇩🇪_DE_德国_21
       - Flower_花花_🇸🇰_SK_斯洛伐克_21
-      - Flower_花花_🇧🇪_BE_比利时_7
-      - Flower_花花_🇩🇪_DE_德国_22
-      - Flower_花花_🇫🇷_FR_法国_1
-      - Flower_花花_🇧🇪_BE_比利时_8
-      - Flower_花花_🇧🇪_BE_比利时_9
-      - Flower_花花_🇧🇪_BE_比利时_10
-      - Flower_花花_🇪🇸_ES_西班牙_3
-      - Flower_花花_🇩🇪_DE_德国_23
-      - Flower_花花_🇳🇴_NO_挪威_1
-      - Flower_花花_🇧🇪_BE_比利时_11
-      - Flower_花花_🇳🇴_NO_挪威_2
-      - Flower_花花_🇳🇴_NO_挪威_3
       - Flower_花花_🇧🇪_BE_比利时_12
-      - Flower_花花_🇩🇪_DE_德国_24
       - Flower_花花_🇸🇪_SE_瑞典_4
-      - Flower_花花_🇳🇴_NO_挪威_4
-      - Flower_花花_🇳🇴_NO_挪威_5
-      - Flower_花花_🇹🇷_TR_土耳其_1
-      - Flower_花花_🇳🇴_NO_挪威_6
       - Flower_花花_🇸🇪_SE_瑞典_5
-      - Flower_花花_🇳🇴_NO_挪威_7
-      - Flower_花花_🇧🇪_BE_比利时_13
       - Flower_花花_🇸🇰_SK_斯洛伐克_22
-      - Flower_花花_🇳🇴_NO_挪威_8
-      - Flower_花花_🇧🇪_BE_比利时_14
       - Flower_花花_🇪🇸_ES_西班牙_4
-      - Flower_花花_🇳🇴_NO_挪威_9
-      - Flower_花花_🇳🇴_NO_挪威_10
-      - Flower_花花_🇳🇴_NO_挪威_12
-      - Flower_花花_🇧🇪_BE_比利时_15
       - Flower_花花_🇪🇸_ES_西班牙_5
-      - Flower_花花_🇳🇴_NO_挪威_13
-      - Flower_花花_🇧🇪_BE_比利时_16
       - Flower_花花_🇸🇰_SK_斯洛伐克_23
-      - Flower_花花_🇳🇴_NO_挪威_14
-      - Flower_花花_🇳🇴_NO_挪威_15
-      - Flower_花花_🇳🇴_NO_挪威_16
-      - Flower_花花_🇳🇴_NO_挪威_17
+      - Flower_花花_1
+      - Flower_花花_1_3
+      - Flower_花花_1_4
+      - Flower_花花_10
+      - Flower_花花_11
+      - Flower_花花_12
+      - Flower_花花_13
+      - Flower_花花_14
+      - Flower_花花_15
+      - Flower_花花_16
+      - Flower_花花_17
+      - Flower_花花_2
+      - Flower_花花_21
+      - Flower_花花_21_15
+      - Flower_花花_22
+      - Flower_花花_23
+      - Flower_花花_25
+      - Flower_花花_25_19
+      - Flower_花花_26
+      - Flower_花花_27
+      - Flower_花花_29
+      - Flower_花花_3
+      - Flower_花花_3_24
+      - Flower_花花_3_25
+      - Flower_花花_3_26
+      - Flower_花花_30
+      - Flower_花花_48
+      - Flower_花花_5
+      - Flower_花花_5_30
+      - Flower_花花_5_31
+      - Flower_花花_6
+      - Flower_花花_6_33
+      - Flower_花花_7
+      - Flower_花花_8
+      - Flower_花花_8_36
+      - Flower_花花_9
+      - Flower_花花_9_38
+      - 🇪🇸+Flower_花花_西班牙_38
+      - 🇪🇸+Flower_花花_西班牙_39
+      - 🇪🇸+Flower_花花_西班牙+2_40
+      - 🇪🇸+Flower_花花_西班牙+2_41
+      - 🇮🇹+Flower_花花_意大利_42
+      - 🇹🇷+Flower_花花_土耳其_43
+      - 🇹🇷+Flower_花花_土耳其+2_44
+      - 🇹🇷+Flower_花花_土耳其+3_45
+      - 🇺🇸+Flower_花花_美国+10_46
+      - 🇺🇸+Flower_花花_美国+11_47
+      - 🇺🇸+Flower_花花_美国+4_48
+      - 🇺🇸+Flower_花花_美国+6_49
+      - 🇺🇸+Flower_花花_美国+8_50
+      - 🇺🇸+Flower_花花_美国+9_51
+      - Flower_花花_SK_7723
+      - Flower_花花_US_10983
+      - 美国_Flower_花花__54
+      - 美国_Flower_花花__55
+      - 美国_Flower_花花__56
+      - 欧洲_Flower_花花__57
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
