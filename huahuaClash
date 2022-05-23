@@ -5,249 +5,558 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇬🇧 _GB_英国_2, server: 167.172.56.225, port: 54141, type: ss, cipher: chacha20-ietf-poly1305, password: 5e04bdc6-6f09-4f5e-a3c7-edf4d3220ad3}
-  - {name: 🇷🇺 _RU_俄罗斯联邦, server: 213.183.53.177, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
-  - {name: 🇷🇺 _RU_俄罗斯联邦 2, server: 213.183.53.177, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
-  - {name: 🇷🇺 _RU_俄罗斯联邦 3, server: 213.183.53.177, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
-  - {name: 🇳🇱 _NL_荷兰, server: 213.183.59.190, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
-  - {name: 🇷🇺 _RU_俄罗斯联邦 4, server: 213.183.53.177, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
-  - {name: 🇷🇺 _RU_俄罗斯联邦 5, server: 213.183.53.179, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
-  - {name: 🇷🇺 _RU_俄罗斯联邦_1, server: 213.183.53.179, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
-  - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港, server: fkgfw-prod.i.sxl.cn, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f}
-  - {name: 🇭🇰 _CN_中国->🇭🇰_HK_香港_3, server: fkgfw-prod.i.sxl.cn, port: 443, type: ss, cipher: aes-256-cfb, password: E4DNMf73kHPrd8Qq7aqGPf7f}
-  - {name: 🇺🇸 _US_美国_3, server: 164.92.99.126, port: 52441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c0e4a18-4d7a-4231-a55d-1dee0fe6732a}
-  - {name: 🇸🇬 _SG_新加坡_1, server: sgp.sharecentre.xyz, port: 443, type: trojan, password: sharecentre, sni: sgp.sharecentre.xyz, skip-cert-verify: true}
-  - {name: 🇳🇱 _NL_荷兰_1, server: 213.183.59.190, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
-  - {name: 🇺🇸 _US_美国, server: 164.92.99.126, port: 52441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c0e4a18-4d7a-4231-a55d-1dee0fe6732a}
-  - {name: 🇮🇳 _IN_印度_1, server: 159.65.157.70, port: 61548, type: ss, cipher: chacha20-ietf-poly1305, password: 1c0e4a18-4d7a-4231-a55d-1dee0fe6732a}
-  - {name: 🇳🇱 _NL_荷兰_2, server: 213.183.59.190, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX}
-  - {name: 🇳🇱 _NL_荷兰 2, server: 213.183.59.190, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ}
-  - {name: 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚, server: cm-jm.okvpn.xyz, port: 20005, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true}
-  - {name: 🇷🇺 _RU_俄罗斯联邦_2, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p}
+  - {name: 🇮🇳 _IN_印度, server: jgwhdlb3.gaox.ml, port: 443, type: trojan, password: 006baa3f-4bc3-4915-b60d-c8c5dae11a11, sni: jgwhdlb3.gaox.ml, skip-cert-verify: true}
+  - {name: 🇯🇵 _JP_日本, server: c61s4.jamjams.net, port: 29907, type: vmess, uuid: bd316a79-4d18-4c8c-82cf-ffe99e7c634d, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇳🇱 _NL_荷兰_1, server: 213.183.59.214, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY}
+  - {name: 🇳🇱 _NL_荷兰_1 2, server: 213.183.59.214, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf}
+  - {name: 🇳🇱 _NL_荷兰_1 3, server: 213.183.59.214, port: 9050, type: ss, cipher: aes-256-cfb, password: FG5ddLsMPbV5CutE}
+  - {name: 🇳🇱 _NL_荷兰_10, server: 213.183.59.214, port: 9080, type: ss, cipher: aes-256-cfb, password: VP8ZPxQpJtZRCjfZ}
+  - {name: 🇳🇱 _NL_荷兰_15, server: 213.183.59.214, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj}
+  - {name: 🇳🇱 _NL_荷兰_17, server: 213.183.59.214, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c}
+  - {name: 🇳🇱 _NL_荷兰_18, server: 213.183.59.206, port: 9030, type: ss, cipher: aes-256-cfb, password: GeregetR8cvQHzYr}
+  - {name: 🇳🇱 _NL_荷兰_20, server: 213.183.59.214, port: 9031, type: ss, cipher: aes-256-cfb, password: BwcAUZk8hUFAkDGN}
+  - {name: 🇳🇱 _NL_荷兰_21, server: 213.183.59.206, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH}
+  - {name: 🇳🇱 _NL_荷兰_21 2, server: 213.183.59.206, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt}
+  - {name: 🇳🇱 _NL_荷兰_23, server: 213.183.59.206, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY}
+  - {name: 🇳🇱 _NL_荷兰_23 2, server: 213.183.59.206, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ}
+  - {name: 🇳🇱 _NL_荷兰_25, server: 213.183.59.214, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga}
+  - {name: 🇳🇱 _NL_荷兰_25 2, server: 213.183.59.206, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
+  - {name: 🇳🇱 _NL_荷兰_28, server: 213.183.59.206, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
+  - {name: 🇳🇱 _NL_荷兰_29, server: 213.183.59.214, port: 9057, type: ss, cipher: aes-256-cfb, password: wjTugX3ZtHMB9c3Z}
+  - {name: 🇳🇱 _NL_荷兰_3, server: 213.183.59.214, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH}
+  - {name: 🇳🇱 _NL_荷兰_3 2, server: 213.183.59.214, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ}
+  - {name: 🇳🇱 _NL_荷兰_30, server: 213.183.59.214, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa}
+  - {name: 🇳🇱 _NL_荷兰_31, server: 213.183.59.214, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y}
+  - {name: 🇳🇱 _NL_荷兰_34, server: 213.183.59.214, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX}
+  - {name: 🇳🇱 _NL_荷兰_35, server: 213.183.59.214, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4}
+  - {name: 🇳🇱 _NL_荷兰_36, server: 213.183.59.206, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8}
+  - {name: 🇳🇱 _NL_荷兰_4, server: 213.183.59.206, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ}
+  - {name: 🇳🇱 _NL_荷兰_7, server: 213.183.59.214, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8}
+  - {name: 🇳🇱 _NL_荷兰_8, server: 213.183.59.206, port: 9015, type: ss, cipher: aes-256-cfb, password: ZpNDDKRu9MagNvaf}
+  - {name: 🇷🇺 _RU_俄罗斯联邦, server: 185.4.65.6, port: 21247, type: ss, cipher: aes-256-cfb, password: vDS9G2p}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_1, server: 213.183.53.208, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_2, server: 213.183.53.177, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_2 2, server: 213.183.53.208, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_3, server: 213.183.53.208, port: 9058, type: ss, cipher: aes-256-cfb, password: dML2sfhbVwvtfNPe}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_3 2, server: 213.183.53.208, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_4, server: 213.183.53.177, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF}
+  - {name: 🇺🇸 _US_美国, server: c61s801.jamjams.net, port: 29907, type: vmess, uuid: bd316a79-4d18-4c8c-82cf-ffe99e7c634d, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 _US_美国_2, server: wireless.starspace.link, port: 443, type: trojan, password: 5LN8SGTqxk336nFg, sni: wireless.starspace.link, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_3, server: jgwcc3.gaox.ml, port: 443, type: trojan, password: b291d129-ee55-4801-a9b8-b5316e5c37b7, sni: jgwcc3.gaox.ml, skip-cert-verify: true}
+  - {name: 🇺🇸 _US_美国_5, server: charge.starspace.link, port: 443, type: trojan, password: 8UnS7eSMi8OFKfje, sni: charge.starspace.link, skip-cert-verify: true}
+  - {name: 🇩🇪 _US_美国->🇩🇪_DE_德国, server: s2.upyun.online, port: 12340, type: trojan, password: c0276440-f163-4f40-a08c-78b158ce6c4f, sni: s2.upyun.online, skip-cert-verify: true}
+  - {name: 🇬🇧 _US_美国->🇬🇧_GB_英国
+, server: s1.upyun.online, port: 12340, type: trojan, password: 316b40c0-0dab-4ea1-9666-ac1658b033b2, sni: s1.upyun.online, skip-cert-verify: true}
+  - {name: v2rayse_test, server: ca-trojan.bonds.id, port: 443, type: trojan, password: bc7593fe-0604-4fbe-a70bYWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTaclWNFc1RmRBNk5NQU5KSnga3fa58ac5a3ef0-b4ab-11eb-b65e-1239d0255272, sni: ca-trojan.bonds.id, skip-cert-verify: true}
+  - {name: 🇫🇷 _FR_法国, server: 195.154.200.150, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
   - {name: 🇭🇰 _HK_香港, server: 165.154.225.230, port: 33080, type: vmess, uuid: b8aaa6e1-f0b3-b9ec-3dfc-bb226c167b33, alterId: 0, cipher: auto, tls: true}
-  - {name: 🇦🇺 _AU_澳大利亚_3, server: kr04.wangxd.life, port: 3052, type: trojan, password: 3a2c0c6c-9ee5-c05f-c951-fcd73831983e, sni: kr04.wangxd.life, skip-cert-verify: true}
-  - {name: 🇭🇰 _HK_香港 2, server: 165.154.225.230, port: 33080, type: vmess, uuid: b8aaa6e1-f0b3-b9ec-3dfc-bb226c167b33, alterId: 0, cipher: auto, tls: true}
-  - {name: 🇰🇷 _KR_韩国, server: 52.78.214.4, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇯🇵 _CN_中国->🇯🇵_JP_日本, server: smart.19900101.xyz, port: 11001, type: vmess, uuid: 1cfaa36d-9912-3433-b9bc-fd5b5085613d, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇯🇵 _CN_中国->🇯🇵_JP_日本 2, server: iepl-zebra.19900101.xyz, port: 4501, type: vmess, uuid: 1cfaa36d-9912-3433-b9bc-fd5b5085613d, alterId: 0, cipher: auto, tls: false}
-  - {name: 🇸🇬 _SG_新加坡_2, server: 13.228.28.195, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
-  - {name: 🇺🇸 _US_美国_3 2, server: v2fly.sab.quest, port: 443, type: vmess, uuid: 9e6ceeff-2546-3690-ac00-6fcdf31dec94, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /chcar, ws-headers: {Host: v2fly.sab.quest}}
-  - {name: 🇬🇧 _CN_中国->🇬🇧_GB_英国, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true}
-  - {name: 🇬🇧 _CN_中国->🇬🇧_GB_英国_2, server: cm-jm.okvpn.xyz, port: 20006, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true}
-  - {name: 🇺🇸 _CN_中国->🇺🇸_US_美国, server: cm-jm.okvpn.xyz, port: 20009, type: trojan, password: e5cf7069-e269-4926-bdb0-fbb39cde6a3a, sni: cm-jm.okvpn.xyz, skip-cert-verify: true}
+  - {name: 🇮🇳 _IN_印度 2, server: 159.65.157.70, port: 61548, type: ss, cipher: chacha20-ietf-poly1305, password: 5e04bdc6-6f09-4f5e-a3c7-edf4d3220ad3}
+  - {name: 🇰🇷 _KR_韩国_1, server: 13.125.80.46, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇰🇷 _KR_韩国_5, server: 13.125.173.191, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇳🇱 _NL_荷兰_1 4, server: 213.183.59.190, port: 9024, type: ss, cipher: aes-256-cfb, password: BejrQvtu9sqUeNuZ}
+  - {name: 🇳🇱 _NL_荷兰_2, server: 213.183.59.190, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
+  - {name: 🇳🇱 荷兰(youtube阿伟科技), server: nnv.chitacdn.xyz, port: 54242, type: vmess, uuid: f2393d82-94c4-4b12-8267-293a7500e487, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇷🇺 _RU_俄罗斯联邦1, server: 213.183.53.179, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_2 3, server: 213.183.53.177, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_3 3, server: 213.183.53.177, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_4 2, server: 213.183.53.177, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP}
+  - {name: 🇷🇺 _RU_俄罗斯联邦_5, server: 213.183.53.177, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq}
+  - {name: 🇸🇬 _SG_新加坡, server: 13.228.28.195, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
+  - {name: 🇺🇸 _US_美国_2 2, server: 164.92.99.126, port: 52441, type: ss, cipher: chacha20-ietf-poly1305, password: 1c0e4a18-4d7a-4231-a55d-1dee0fe6732a}
+  - {name: 🇺🇸 US_1065+|25.76Mb, server: 20.205.117.99, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13..}
+  - {name: 🇷🇺 俄罗斯(yudou66.com玉豆分享), server: zzcm09.bdate.xyz, port: 1370, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
+  - {name: 🇰🇷 韩国(yudou66.com玉豆分享), server: v2-5.godlight.xyz, port: 27000, type: vmess, uuid: 767e55a4-43fa-4301-a9c2-ad30eaa9f61a, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /71h4b3s1f53, ws-headers: {Host: v2-5.godlight.xyz}}
+  - {name: 🇺🇸 美国(yudou66.com玉豆分享)_4, server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇺🇸 美国(yudou66.com玉豆分享)_4 2, server: bgpv2.ktyjsq.com, port: 12224, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇯🇵 日本(yudou66.com玉豆分享), server: bgpv2.ktyjsq.com, port: 12205, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇯🇵 日本(yudou66.com玉豆分享)_1, server: v2-1.godlight.xyz, port: 27000, type: vmess, uuid: 719d4cec-82a8-4a65-ad01-32cf08f2c988, alterId: 0, cipher: auto, tls: true, network: ws, ws-path: /j75g1461x, ws-headers: {Host: v2-1.godlight.xyz}}
+  - {name: 🇯🇵 日本(yudou66.com玉豆分享)_3, server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇨🇳 台湾(yudou66.com玉豆分享), server: bgpv2.ktyjsq.com, port: 12222, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇨🇳 台湾(yudou66.com玉豆分享)_1, server: zzcm09.bdate.xyz, port: 1320, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
+  - {name: 🇨🇳 台湾(yudou66.com玉豆分享)_2, server: bgpv2.ktyjsq.com, port: 12222, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇨🇳 台湾(yudou66.com玉豆分享)_3, server: b10.v2.gay, port: 1930, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: b10.v2.gay}}
+  - {name: 🇭🇰 香港(yudou66.com玉豆分享), server: zzcm09.bdate.xyz, port: 1420, type: vmess, uuid: b9ecdb44-236b-30a7-94f2-f464993d84cf, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /hls/cctv5phd.m3u8, ws-headers: {Host: zzcm09.bdate.xyz}}
+  - {name: 🇸🇬 新加坡(yudou66.com玉豆分享), server: bgpv2.ktyjsq.com, port: 12223, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, tls: false}
+  - {name: 🇸🇬 新加坡(yudou66.com玉豆分享)_2, server: sg.sos4g.xyz, port: 80, type: vmess, uuid: d9a57450-3915-43f2-8d82-985b90e170f0, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /sos4g.xyz, ws-headers: {Host: sg.sos4g.xyz}}
+  - {name: 伊朗(yudou66.com玉豆分享)_1, server: srvf.myandroidplus1.ir, port: 80, type: vmess, uuid: c1214c26-f0fc-2f0a-81b0-84d10f8d14dc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /apiws, ws-headers: {Host: srvf.myandroidplus1.ir}}
+  - {name: 伊朗(yudou66.com玉豆分享)_2, server: mci.myandroidplus1.ir, port: 80, type: vmess, uuid: c1214c26-f0fc-2f0a-81b0-84d10f8d14dc, alterId: 0, cipher: auto, tls: false, network: ws, ws-path: /api, ws-headers: {Host: mci.myandroidplus1.ir}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦1
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -270,36 +579,80 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇬🇧 _GB_英国_2
-      - 🇷🇺 _RU_俄罗斯联邦
-      - 🇷🇺 _RU_俄罗斯联邦 2
-      - 🇷🇺 _RU_俄罗斯联邦 3
-      - 🇳🇱 _NL_荷兰
-      - 🇷🇺 _RU_俄罗斯联邦 4
-      - 🇷🇺 _RU_俄罗斯联邦 5
-      - 🇷🇺 _RU_俄罗斯联邦_1
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港
-      - 🇭🇰 _CN_中国->🇭🇰_HK_香港_3
-      - 🇺🇸 _US_美国_3
-      - 🇸🇬 _SG_新加坡_1
+      - 🇮🇳 _IN_印度
+      - 🇯🇵 _JP_日本
       - 🇳🇱 _NL_荷兰_1
-      - 🇺🇸 _US_美国
-      - 🇮🇳 _IN_印度_1
-      - 🇳🇱 _NL_荷兰_2
-      - 🇳🇱 _NL_荷兰 2
-      - 🇲🇾 _CN_中国->🇲🇾_MY_马来西亚
+      - 🇳🇱 _NL_荷兰_1 2
+      - 🇳🇱 _NL_荷兰_1 3
+      - 🇳🇱 _NL_荷兰_10
+      - 🇳🇱 _NL_荷兰_15
+      - 🇳🇱 _NL_荷兰_17
+      - 🇳🇱 _NL_荷兰_18
+      - 🇳🇱 _NL_荷兰_20
+      - 🇳🇱 _NL_荷兰_21
+      - 🇳🇱 _NL_荷兰_21 2
+      - 🇳🇱 _NL_荷兰_23
+      - 🇳🇱 _NL_荷兰_23 2
+      - 🇳🇱 _NL_荷兰_25
+      - 🇳🇱 _NL_荷兰_25 2
+      - 🇳🇱 _NL_荷兰_28
+      - 🇳🇱 _NL_荷兰_29
+      - 🇳🇱 _NL_荷兰_3
+      - 🇳🇱 _NL_荷兰_3 2
+      - 🇳🇱 _NL_荷兰_30
+      - 🇳🇱 _NL_荷兰_31
+      - 🇳🇱 _NL_荷兰_34
+      - 🇳🇱 _NL_荷兰_35
+      - 🇳🇱 _NL_荷兰_36
+      - 🇳🇱 _NL_荷兰_4
+      - 🇳🇱 _NL_荷兰_7
+      - 🇳🇱 _NL_荷兰_8
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_1
       - 🇷🇺 _RU_俄罗斯联邦_2
+      - 🇷🇺 _RU_俄罗斯联邦_2 2
+      - 🇷🇺 _RU_俄罗斯联邦_3
+      - 🇷🇺 _RU_俄罗斯联邦_3 2
+      - 🇷🇺 _RU_俄罗斯联邦_4
+      - 🇺🇸 _US_美国
+      - 🇺🇸 _US_美国_2
+      - 🇺🇸 _US_美国_3
+      - 🇺🇸 _US_美国_5
+      - 🇩🇪 _US_美国->🇩🇪_DE_德国
+      - 🇬🇧 _US_美国->🇬🇧_GB_英国
+      - v2rayse_test
+      - 🇫🇷 _FR_法国
       - 🇭🇰 _HK_香港
-      - 🇦🇺 _AU_澳大利亚_3
-      - 🇭🇰 _HK_香港 2
-      - 🇰🇷 _KR_韩国
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本
-      - 🇯🇵 _CN_中国->🇯🇵_JP_日本 2
-      - 🇸🇬 _SG_新加坡_2
-      - 🇺🇸 _US_美国_3 2
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国
-      - 🇬🇧 _CN_中国->🇬🇧_GB_英国_2
-      - 🇺🇸 _CN_中国->🇺🇸_US_美国
+      - 🇮🇳 _IN_印度 2
+      - 🇰🇷 _KR_韩国_1
+      - 🇰🇷 _KR_韩国_5
+      - 🇳🇱 _NL_荷兰_1 4
+      - 🇳🇱 _NL_荷兰_2
+      - 🇳🇱 荷兰(youtube阿伟科技)
+      - 🇷🇺 _RU_俄罗斯联邦
+      - 🇷🇺 _RU_俄罗斯联邦_2 3
+      - 🇷🇺 _RU_俄罗斯联邦_3 3
+      - 🇷🇺 _RU_俄罗斯联邦_4 2
+      - 🇷🇺 _RU_俄罗斯联邦_5
+      - 🇸🇬 _SG_新加坡
+      - 🇺🇸 _US_美国_2 2
+      - 🇺🇸 US_1065+|25.76Mb
+      - 🇷🇺 俄罗斯(yudou66.com玉豆分享)
+      - 🇰🇷 韩国(yudou66.com玉豆分享)
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4
+      - 🇺🇸 美国(yudou66.com玉豆分享)_4 2
+      - 🇯🇵 日本(yudou66.com玉豆分享)
+      - 🇯🇵 日本(yudou66.com玉豆分享)_1
+      - 🇯🇵 日本(yudou66.com玉豆分享)_3
+      - 🇨🇳 台湾(yudou66.com玉豆分享)
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_1
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_2
+      - 🇨🇳 台湾(yudou66.com玉豆分享)_3
+      - 🇭🇰 香港(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)
+      - 🇸🇬 新加坡(yudou66.com玉豆分享)_2
+      - 伊朗(yudou66.com玉豆分享)_1
+      - 伊朗(yudou66.com玉豆分享)_2
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
